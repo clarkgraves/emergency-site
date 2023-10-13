@@ -1,24 +1,19 @@
 ---
-title: Crisis information example post
-date: 2020-03-22T14:00
+title: ATS Emergency Notification
+date: 2023-03-13 14:00
 ---
 
 This is an example of how to publish critical information as posts on this website.
 
-## Coronavirus (COVID-19): what you need to do
+## Current Situation of ATS Systems
 
-* Stay at home
-* Only go outside for food, health reasons or work (but only if you cannot work from home)
-* Stay 2 meters (6ft) away from other people
-* Wash your hands as soon as you get home
-* You can spread the virus even if you don’t have symptoms.
+* ATS Information Technology has determined that a portion of it's network has been compromised by a virus
+* We do not yet know the extent of the situation
+* As a precautionary response we have shut down the ATS computer network until further notice
+* We are working with our cybersecurity vendors to determine next steps
+* Please refer back to this site for updates.
 
-## Staying at home and away from others (social distancing)
+## More information here.
 
-The single most important action we can all take, in fighting coronavirus, is to stay at home in order to protect the healthcare system and save lives.
+More information on the situation would go here
 
-When we reduce our day-to-day contact with other people, we will reduce the spread of the infection. The most important measures are:
-
-1. Requiring people to stay at home, except for very limited purposes.
-2. Closing certain businesses and venues.
-3. Stopping all gatherings of more than two people in public.
